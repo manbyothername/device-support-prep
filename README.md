@@ -1,1 +1,6 @@
-# device-support-prep
+Copyright © 2026 Prep Software Solutions
+
+All rights reserved.
+
+This software and associated documentation files are proprietary.
+Unauthorized copying, modification, distribution, or use is prohibited.
